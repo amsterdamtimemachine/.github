@@ -9,8 +9,8 @@ The Amsterdam Time Machine is coordinated by the [CREATE Lab](https://www.create
 For more information, see: https://www.amsterdamtimemachine.nl/
 
 <p float="left">
-<img align="middle" src=".assets/atm_logo.png" alt="Logo of the Amsterdam Time Machine" width="32%">
-<img align="middle" src=".assets/uva_logo.png" alt="Logo of the University of Amsterdam" width="32%">
-<img align="middle" src=".assets/tmo_logo.png" alt="Logo of the European Time Machine" width="32%">
+<img align="middle" src="./assets/atm_logo.png" alt="Logo of the Amsterdam Time Machine" width="32%">
+<img align="middle" src="./assets/uva_logo.png" alt="Logo of the University of Amsterdam" width="32%">
+<img align="middle" src="./assets/tmo_logo.png" alt="Logo of the European Time Machine" width="32%">
 </p>
 
